@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temp Converter</string>
+    <string name="label1">Temperature in Celsius</string>
+    <string name="label2">Convert to</string>
+    <string name="button">convert</string>
+    <string name="initial_value">0</string>
+    <string name="description">Temperature</string>
+</resources>
